@@ -7,6 +7,9 @@ body {
     font-family: "Poppins", sans-serif;
     background-color: #000;
     color: #fff;
+    overflow-x: hidden;
+    /* Hindari scroll horizontal yang tidak diinginkan */
+    max-width: 100%;
 }
 
 /* width */
